@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 public class Car {
 
-    public static void main (String[] arg){
+    public static void main(){
 
         Scanner input = new Scanner(System.in);
         System.out.println("What car(model) are you looking for");

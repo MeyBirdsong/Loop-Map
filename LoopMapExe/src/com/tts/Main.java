@@ -29,6 +29,10 @@ public class Main {
         System.out.println("Your smallest number is: " + numberArray.get(0));
         System.out.println("Your largest number is: " + numberArray.get(4));
 
+        Car.main();
+        Math.main(new String[]{"test"});
+        Math2.main(new String[]{"test"});
+
     }
 }
 
